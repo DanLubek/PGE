@@ -1,0 +1,14 @@
+game ideas
+
+third person (forced)
+
+
+
+third person builder where you place "lots" of different types (residence, shops, work) and have to take into account
+location and distance between certain buildings for efficency
+
+have to earn money AND resources
+
+top down to place places, then first person to take the resources to the place
+
+camera things in blueprint
