@@ -1,6 +1,6 @@
 game ideas
 
-third person (forced)
+third person (forced) / animal crossing?
 
 
 
@@ -12,3 +12,5 @@ have to earn money AND resources
 top down to place places, then first person to take the resources to the place
 
 camera things in blueprint
+
+grid system? for lot placement
