@@ -2047,3 +2047,1043 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.04.11-19.35.32:774][514]AssetCheck: New page: Asset Save: multiple assets
 [2023.04.11-19.35.32:774][514]LogContentValidation: Display: Validating World /Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1
 [2023.04.11-19.35.32:774][514]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/CuteKitten/Maps/Kitten_Scene1_BuiltData.Kitten_Scene1_BuiltData
+[2023.04.11-22.26.40:417][147]Cmd: SELECT NONE
+[2023.04.11-22.26.41:803][296]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2023.04.11-22.26.41:867][296]LogSavePackage: Moving '../../../../../Git/Year2---DMU/PGE/Assignment/Saved/Kitten_Scene1F23174A54C845A42CBE250AFFF2FC315.tmp' to '../../../../../Git/Year2---DMU/PGE/Assignment/Content/CuteKitten/Maps/Kitten_Scene1.umap'
+[2023.04.11-22.26.41:875][296]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CuteKitten/Maps/Kitten_Scene1_BuiltData" FILE="../../../../../Git/Year2---DMU/PGE/Assignment/Content/CuteKitten/Maps/Kitten_Scene1_BuiltData.uasset" SILENT=true
+[2023.04.11-22.26.41:931][296]LogSavePackage: Moving '../../../../../Git/Year2---DMU/PGE/Assignment/Saved/Kitten_Scene1_BuiltDataB3E816B343C01EA7EF635BB595E9B526.tmp' to '../../../../../Git/Year2---DMU/PGE/Assignment/Content/CuteKitten/Maps/Kitten_Scene1_BuiltData.uasset'
+[2023.04.11-22.26.41:944][296]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.11-22.26.41:944][296]LogContentValidation: Display: Validating World /Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1
+[2023.04.11-22.26.41:944][296]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/CuteKitten/Maps/Kitten_Scene1_BuiltData.Kitten_Scene1_BuiltData
+[2023.04.11-22.27.34:516][471]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2023.04.11-22.27.35:691][611]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2023.04.11-22.27.36:075][657]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2023.04.11-22.27.36:283][682]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2023.04.11-22.27.36:438][700]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2023.04.11-22.27.36:580][717]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2023.04.11-22.27.36:713][733]Cmd: POLY TEXPAN U=4.000000 V=0.000000
+[2023.04.11-22.27.37:554][833]Cmd: TRANSACTION UNDO
+[2023.04.11-22.27.37:554][833]LogEditorTransaction: Undo Set Texpan
+[2023.04.11-22.27.37:732][840]Cmd: TRANSACTION UNDO
+[2023.04.11-22.27.37:732][840]LogEditorTransaction: Undo Set Texpan
+[2023.04.11-22.27.37:879][845]Cmd: TRANSACTION UNDO
+[2023.04.11-22.27.37:879][845]LogEditorTransaction: Undo Set Texpan
+[2023.04.11-22.27.38:388][891]Cmd: TRANSACTION UNDO
+[2023.04.11-22.27.38:388][891]LogEditorTransaction: Undo Set Texpan
+[2023.04.11-22.27.38:839][941]Cmd: TRANSACTION UNDO
+[2023.04.11-22.27.38:839][941]LogEditorTransaction: Undo Set Texpan
+[2023.04.11-22.27.42:781][374]Cmd: POLY TEXPAN U=64.000000 V=0.000000
+[2023.04.11-22.27.44:559][583]Cmd: TRANSACTION UNDO
+[2023.04.11-22.27.44:559][583]LogEditorTransaction: Undo Set Texpan
+[2023.04.11-22.27.45:085][610]Cmd: POLY TEXPAN U=16.000000 V=0.000000
+[2023.04.11-22.27.45:727][687]Cmd: TRANSACTION UNDO
+[2023.04.11-22.27.45:727][687]LogEditorTransaction: Undo Set Texpan
+[2023.04.11-22.28.04:632][872]Cmd: EDIT COPY
+[2023.04.11-22.28.04:908][905]Cmd: EDIT PASTE
+[2023.04.11-22.28.25:337][249]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor13)
+[2023.04.11-22.28.26:419][369]Cmd: DELETE
+[2023.04.11-22.28.26:419][369]Cmd: ACTOR DELETE
+[2023.04.11-22.28.26:425][369]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.11-22.28.26:432][369]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2023.04.11-22.28.26:434][369]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2023.04.11-22.29.09:983][ 26]Cmd: EDIT COPY
+[2023.04.11-22.29.10:191][ 50]Cmd: EDIT PASTE
+[2023.04.11-22.29.15:167][617]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor14)
+[2023.04.11-22.29.15:811][688]Cmd: DELETE
+[2023.04.11-22.29.15:811][688]Cmd: ACTOR DELETE
+[2023.04.11-22.29.15:817][688]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.11-22.29.15:823][688]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2023.04.11-22.29.15:824][688]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2023.04.11-22.30.01:274][913]Cmd: EDIT COPY
+[2023.04.11-22.30.01:466][936]Cmd: EDIT PASTE
+[2023.04.11-22.30.35:319][767]Cmd: SELECT NONE
+[2023.04.11-22.30.48:270][266]Cmd: SELECT NONE
+[2023.04.11-22.30.57:989][358]Cmd: SELECT NONE
+[2023.04.11-22.31.02:091][820]Cmd: SELECT NONE
+[2023.04.11-22.31.07:194][392]Cmd: SELECT NONE
+[2023.04.11-22.31.14:210][201]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor16)
+[2023.04.11-22.31.18:599][663]Cmd: EDIT COPY
+[2023.04.11-22.31.18:842][685]Cmd: EDIT PASTE
+[2023.04.11-22.31.33:301][352]Cmd: DELETE
+[2023.04.11-22.31.33:301][352]Cmd: ACTOR DELETE
+[2023.04.11-22.31.33:317][352]LogEditorActor: Deleted Actor: Brush
+[2023.04.11-22.31.33:324][352]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.04.11-22.31.33:336][352]LogEditorActor: Deleted 1 Actors (0.034 secs)
+[2023.04.11-22.31.34:927][534]Cmd: TRANSACTION UNDO
+[2023.04.11-22.31.34:927][534]LogEditorTransaction: Undo Delete Actors
+[2023.04.11-22.31.35:708][581]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor16)
+[2023.04.11-22.31.36:439][662]Cmd: DELETE
+[2023.04.11-22.31.36:439][662]Cmd: ACTOR DELETE
+[2023.04.11-22.31.36:447][662]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.11-22.31.36:453][662]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.04.11-22.31.36:454][662]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2023.04.11-22.31.45:970][714]Cmd: TRANSACTION UNDO
+[2023.04.11-22.31.45:970][714]LogEditorTransaction: Undo Move Actors
+[2023.04.11-22.32.34:376][237]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor11)
+[2023.04.11-22.32.38:678][736]Cmd: EDIT COPY
+[2023.04.11-22.32.38:962][770]Cmd: EDIT PASTE
+[2023.04.11-22.33.02:701][519]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor11)
+[2023.04.11-22.33.04:262][701]Cmd: DELETE
+[2023.04.11-22.33.04:262][701]Cmd: ACTOR DELETE
+[2023.04.11-22.33.04:275][701]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.11-22.33.04:284][701]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2023.04.11-22.33.04:285][701]LogEditorActor: Deleted 1 Actors (0.022 secs)
+[2023.04.11-22.33.11:410][541]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.04.11-22.33.11:461][541]LogSavePackage: Moving '../../../../../Git/Year2---DMU/PGE/Assignment/Saved/Kitten_Scene14BF5C80A4B4472AAE3672BB9D7F6C091.tmp' to '../../../../../Git/Year2---DMU/PGE/Assignment/Content/CuteKitten/Maps/Kitten_Scene1.umap'
+[2023.04.11-22.33.11:481][541]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CuteKitten/Maps/Kitten_Scene1_BuiltData" FILE="../../../../../Git/Year2---DMU/PGE/Assignment/Content/CuteKitten/Maps/Kitten_Scene1_BuiltData.uasset" SILENT=true
+[2023.04.11-22.33.11:531][541]LogSavePackage: Moving '../../../../../Git/Year2---DMU/PGE/Assignment/Saved/Kitten_Scene1_BuiltData29959A1448E7DDD6940E96ABF362F4E6.tmp' to '../../../../../Git/Year2---DMU/PGE/Assignment/Content/CuteKitten/Maps/Kitten_Scene1_BuiltData.uasset'
+[2023.04.11-22.33.11:543][541]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.11-22.33.11:543][541]LogContentValidation: Display: Validating World /Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1
+[2023.04.11-22.33.11:543][541]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/CuteKitten/Maps/Kitten_Scene1_BuiltData.Kitten_Scene1_BuiltData
+[2023.04.11-22.33.11:791][571]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.11-22.33.11:799][571]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.11-22.33.11:800][571]PIE: New page: PIE session: Kitten_Scene1 (12 Apr 2023, 00:33:11)
+[2023.04.11-22.33.11:827][571]LogPlayLevel: Creating play world package: /Game/CuteKitten/Maps/UEDPIE_0_Kitten_Scene1
+[2023.04.11-22.33.11:847][571]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019432s)
+[2023.04.11-22.33.11:849][571]LogAIModule: Creating AISystem for world Kitten_Scene1
+[2023.04.11-22.33.11:849][571]LogPlayLevel: PIE: World Init took: (0.002707s)
+[2023.04.11-22.33.11:849][571]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1 to /Game/CuteKitten/Maps/UEDPIE_0_Kitten_Scene1.Kitten_Scene1 (0.022890s)
+[2023.04.11-22.33.11:864][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.04.11-22.33.11:865][571]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2023.04.11-22.33.11:866][571]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.11-22.33.11:866][571]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.11-22.33.11:866][571]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.11-22.33.11:866][571]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.11-22.33.11:866][571]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.11-22.33.11:866][571]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.11-22.33.11:866][571]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.11-22.33.11:866][571]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.11-22.33.11:867][571]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.11-22.33.11:867][571]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.11-22.33.11:867][571]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.11-22.33.11:867][571]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.11-22.33.11:876][571]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.11-22.33.11:876][571]LogAudioMixer: Display: 1: FrontRight
+[2023.04.11-22.33.11:893][571]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2023.04.11-22.33.11:893][571]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.11-22.33.11:893][571]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.11-22.33.11:893][571]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.11-22.33.11:894][571]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.11-22.33.11:894][571]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.11-22.33.11:894][571]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.11-22.33.11:895][571]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.11-22.33.11:895][571]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.11-22.33.11:895][571]LogInit: FAudioDevice initialized.
+[2023.04.11-22.33.11:895][571]LogAudio: Display: Audio Device (ID: 7) registered with world 'Kitten_Scene1'.
+[2023.04.11-22.33.11:913][571]LogLoad: Game class is 'MyGame_C'
+[2023.04.11-22.33.11:917][571]LogWorld: Bringing World /Game/CuteKitten/Maps/UEDPIE_0_Kitten_Scene1.Kitten_Scene1 up for play (max tick rate 0) at 2023.04.11-23.33.11
+[2023.04.11-22.33.11:917][571]LogWorld: Bringing up level for play took: 0.003426
+[2023.04.11-22.33.11:918][571]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2023.04.11-22.33.11:920][571]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.11-22.33.11:920][571]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.11-22.33.11:920][571]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.04.11-22.33.11:922][571]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.04.11-22.33.11:922][571]PIE: Server logged in
+[2023.04.11-22.33.11:923][571]PIE: Play in editor total start time 0.125 seconds.
+[2023.04.11-22.33.18:118][305]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.11-22.33.18:118][305]LogWorld: BeginTearingDown for /Game/CuteKitten/Maps/UEDPIE_0_Kitten_Scene1
+[2023.04.11-22.33.18:118][305]LogWorld: UWorld::CleanupWorld for Kitten_Scene1, bSessionEnded=true, bCleanupResources=true
+[2023.04.11-22.33.18:119][305]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.11-22.33.18:130][305]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.11-22.33.18:132][305]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.11-22.33.18:138][305]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.11-22.33.18:138][305]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.11-22.33.18:139][305]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.11-22.33.18:141][305]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.11-22.33.18:147][305]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.04.11-22.33.18:199][308]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2023.04.11-22.36.39:483][321]Cmd: EDIT COPY
+[2023.04.11-22.36.39:780][356]Cmd: EDIT PASTE
+[2023.04.11-22.36.57:070][329]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor7)
+[2023.04.11-22.36.59:637][627]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor5)
+[2023.04.11-22.37.00:041][671]Cmd: DELETE
+[2023.04.11-22.37.00:041][671]Cmd: ACTOR DELETE
+[2023.04.11-22.37.00:048][671]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.11-22.37.00:055][671]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.04.11-22.37.00:059][671]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2023.04.11-22.37.00:311][700]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor6)
+[2023.04.11-22.37.00:388][704]Cmd: DELETE
+[2023.04.11-22.37.00:388][704]Cmd: ACTOR DELETE
+[2023.04.11-22.37.00:394][704]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.11-22.37.00:399][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.04.11-22.37.00:399][704]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2023.04.11-22.37.02:724][978]Cmd: EDIT COPY
+[2023.04.11-22.37.02:965][  6]Cmd: EDIT PASTE
+[2023.04.11-22.37.51:251][509]Cmd: TRANSACTION UNDO
+[2023.04.11-22.37.51:251][509]LogEditorTransaction: Undo Scale Actors
+[2023.04.11-22.37.55:755][993]Cmd: TRANSACTION UNDO
+[2023.04.11-22.37.55:755][993]LogEditorTransaction: Undo Move Actors
+[2023.04.11-22.38.01:875][671]Cmd: SELECT NONE
+[2023.04.11-22.38.36:252][539]Cmd: TRANSACTION UNDO
+[2023.04.11-22.38.36:252][539]LogEditorTransaction: Undo Scale Actors
+[2023.04.11-22.38.40:737][  4]Cmd: TRANSACTION UNDO
+[2023.04.11-22.38.40:737][  4]LogEditorTransaction: Undo Scale Actors
+[2023.04.11-22.38.49:604][997]Cmd: TRANSACTION UNDO
+[2023.04.11-22.38.49:605][997]LogEditorTransaction: Undo Scale Actors
+[2023.04.11-22.38.50:089][ 19]Cmd: TRANSACTION UNDO
+[2023.04.11-22.38.50:089][ 19]LogEditorTransaction: Undo Scale Actors
+[2023.04.11-22.39.13:992][662]Cmd: TRANSACTION UNDO
+[2023.04.11-22.39.13:992][662]LogEditorTransaction: Undo Scale Actors
+[2023.04.11-22.39.42:107][904]Cmd: SELECT NONE
+[2023.04.11-22.40.09:681][985]Cmd: SELECT NONE
+[2023.04.11-22.40.19:518][110]Cmd: SELECT NONE
+[2023.04.11-22.40.36:857][127]Cmd: TRANSACTION UNDO
+[2023.04.11-22.40.36:857][127]LogEditorTransaction: Undo Set Location
+[2023.04.11-22.40.39:665][418]Cmd: SELECT NONE
+[2023.04.11-22.40.47:068][262]Cmd: SELECT NONE
+[2023.04.11-22.41.02:160][992]Cmd: SELECT NONE
+[2023.04.11-22.41.11:950][111]Cmd: TRANSACTION UNDO
+[2023.04.11-22.41.11:950][111]LogEditorTransaction: Undo Move Actors
+[2023.04.11-22.41.22:188][210]Cmd: DELETE
+[2023.04.11-22.41.22:188][210]Cmd: ACTOR DELETE
+[2023.04.11-22.41.22:206][210]LogEditorActor: Deleted Actor: Brush
+[2023.04.11-22.41.22:218][210]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.04.11-22.41.22:235][210]LogEditorActor: Deleted 1 Actors (0.047 secs)
+[2023.04.11-22.41.27:639][811]Cmd: EDIT COPY
+[2023.04.11-22.41.27:929][840]Cmd: EDIT PASTE
+[2023.04.11-22.41.50:427][260]Cmd: SELECT NONE
+[2023.04.11-22.41.56:159][932]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor7)
+[2023.04.11-22.41.56:813][  0]Cmd: DELETE
+[2023.04.11-22.41.56:813][  0]Cmd: ACTOR DELETE
+[2023.04.11-22.41.56:829][  0]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.11-22.41.56:839][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2023.04.11-22.41.56:840][  0]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2023.04.11-22.43.18:084][502]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2023.04.11-22.43.18:136][502]LogSavePackage: Moving '../../../../../Git/Year2---DMU/PGE/Assignment/Saved/Kitten_Scene1_Auto955EA31EA4241B6D3F366C59C26C21EFE.tmp' to '../../../../../Git/Year2---DMU/PGE/Assignment/Saved/Autosaves/Game/CuteKitten/Maps/Kitten_Scene1_Auto9.umap'
+[2023.04.11-22.43.18:137][502]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/CuteKitten/Maps/Kitten_Scene1' took 0.064
+[2023.04.11-22.43.18:137][502]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.064
+[2023.04.11-22.45.12:675][243]Cmd: EDIT COPY
+[2023.04.11-22.45.12:911][270]Cmd: EDIT PASTE
+[2023.04.11-22.45.21:472][217]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor10)
+[2023.04.11-22.45.22:121][290]Cmd: DELETE
+[2023.04.11-22.45.22:121][290]Cmd: ACTOR DELETE
+[2023.04.11-22.45.22:138][290]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.11-22.45.22:149][290]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2023.04.11-22.45.22:150][290]LogEditorActor: Deleted 1 Actors (0.029 secs)
+[2023.04.11-22.45.25:556][672]Cmd: EDIT COPY
+[2023.04.11-22.45.25:779][693]Cmd: EDIT PASTE
+[2023.04.11-22.46.00:558][659]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor8)
+[2023.04.11-22.46.04:878][165]Cmd: DELETE
+[2023.04.11-22.46.04:878][165]Cmd: ACTOR DELETE
+[2023.04.11-22.46.04:894][165]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.11-22.46.04:906][165]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.04.11-22.46.04:908][165]LogEditorActor: Deleted 1 Actors (0.030 secs)
+[2023.04.11-22.46.09:305][664]Cmd: EDIT COPY
+[2023.04.11-22.46.09:538][691]Cmd: EDIT PASTE
+[2023.04.11-22.46.37:515][887]LogEditorClassViewer: Warning: Class /Engine/Tutorial/InWorldBlueprintEditing/TutorialAssets/IWBE_Blutility.IWBE_Blutility_C has parent /Script/Blutility.PlacedEditorUtilityBase, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.04.11-22.46.39:523][107]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor9)
+[2023.04.11-22.46.40:215][184]Cmd: DELETE
+[2023.04.11-22.46.40:215][184]Cmd: ACTOR DELETE
+[2023.04.11-22.46.40:233][184]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.11-22.46.40:245][184]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.04.11-22.46.40:246][184]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2023.04.11-22.46.43:563][572]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2023.04.11-22.46.43:612][572]LogSavePackage: Moving '../../../../../Git/Year2---DMU/PGE/Assignment/Saved/Kitten_Scene18AB848E446C0D92CB6DA16B128F0A316.tmp' to '../../../../../Git/Year2---DMU/PGE/Assignment/Content/CuteKitten/Maps/Kitten_Scene1.umap'
+[2023.04.11-22.46.43:635][572]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CuteKitten/Maps/Kitten_Scene1_BuiltData" FILE="../../../../../Git/Year2---DMU/PGE/Assignment/Content/CuteKitten/Maps/Kitten_Scene1_BuiltData.uasset" SILENT=true
+[2023.04.11-22.46.43:680][572]LogSavePackage: Moving '../../../../../Git/Year2---DMU/PGE/Assignment/Saved/Kitten_Scene1_BuiltData18ED6D314793A7796A04B2B1E9322B8A.tmp' to '../../../../../Git/Year2---DMU/PGE/Assignment/Content/CuteKitten/Maps/Kitten_Scene1_BuiltData.uasset'
+[2023.04.11-22.46.43:691][572]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.11-22.46.43:691][572]LogContentValidation: Display: Validating World /Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1
+[2023.04.11-22.46.43:691][572]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/CuteKitten/Maps/Kitten_Scene1_BuiltData.Kitten_Scene1_BuiltData
+[2023.04.11-22.46.43:971][606]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.11-22.46.43:976][606]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.11-22.46.43:976][606]PIE: New page: PIE session: Kitten_Scene1 (12 Apr 2023, 00:46:43)
+[2023.04.11-22.46.44:007][606]LogPlayLevel: Creating play world package: /Game/CuteKitten/Maps/UEDPIE_0_Kitten_Scene1
+[2023.04.11-22.46.44:024][606]LogPlayLevel: PIE: StaticDuplicateObject took: (0.017170s)
+[2023.04.11-22.46.44:025][606]LogAIModule: Creating AISystem for world Kitten_Scene1
+[2023.04.11-22.46.44:025][606]LogPlayLevel: PIE: World Init took: (0.001107s)
+[2023.04.11-22.46.44:025][606]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1 to /Game/CuteKitten/Maps/UEDPIE_0_Kitten_Scene1.Kitten_Scene1 (0.018541s)
+[2023.04.11-22.46.44:042][606]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.04.11-22.46.44:045][606]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2023.04.11-22.46.44:045][606]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.11-22.46.44:045][606]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.11-22.46.44:045][606]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.11-22.46.44:045][606]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.11-22.46.44:045][606]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.11-22.46.44:045][606]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.11-22.46.44:045][606]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.11-22.46.44:045][606]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.11-22.46.44:045][606]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.11-22.46.44:045][606]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.11-22.46.44:045][606]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.11-22.46.44:045][606]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.11-22.46.44:054][606]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.11-22.46.44:055][606]LogAudioMixer: Display: 1: FrontRight
+[2023.04.11-22.46.44:067][606]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2023.04.11-22.46.44:067][606]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.11-22.46.44:067][606]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.11-22.46.44:067][606]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.11-22.46.44:068][606]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.11-22.46.44:068][606]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.11-22.46.44:068][606]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.11-22.46.44:069][606]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.11-22.46.44:069][606]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.11-22.46.44:069][606]LogInit: FAudioDevice initialized.
+[2023.04.11-22.46.44:069][606]LogAudio: Display: Audio Device (ID: 8) registered with world 'Kitten_Scene1'.
+[2023.04.11-22.46.44:078][606]LogLoad: Game class is 'MyGame_C'
+[2023.04.11-22.46.44:081][606]LogWorld: Bringing World /Game/CuteKitten/Maps/UEDPIE_0_Kitten_Scene1.Kitten_Scene1 up for play (max tick rate 0) at 2023.04.11-23.46.44
+[2023.04.11-22.46.44:082][606]LogWorld: Bringing up level for play took: 0.002541
+[2023.04.11-22.46.44:082][606]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2023.04.11-22.46.44:084][606]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.11-22.46.44:084][606]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.11-22.46.44:084][606]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.04.11-22.46.44:084][606]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.04.11-22.46.44:084][606]PIE: Server logged in
+[2023.04.11-22.46.44:085][606]PIE: Play in editor total start time 0.11 seconds.
+[2023.04.11-22.46.48:468][118]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.11-22.46.48:468][118]LogWorld: BeginTearingDown for /Game/CuteKitten/Maps/UEDPIE_0_Kitten_Scene1
+[2023.04.11-22.46.48:468][118]LogWorld: UWorld::CleanupWorld for Kitten_Scene1, bSessionEnded=true, bCleanupResources=true
+[2023.04.11-22.46.48:469][118]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.11-22.46.48:479][118]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.11-22.46.48:480][118]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.11-22.46.48:486][118]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.11-22.46.48:486][118]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.11-22.46.48:487][118]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.11-22.46.48:490][118]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.11-22.46.48:492][118]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.04.11-22.46.48:535][120]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2023.04.11-22.46.59:449][402]Cmd: EDIT COPY
+[2023.04.11-22.46.59:696][431]Cmd: EDIT PASTE
+[2023.04.11-22.47.23:324][112]Cmd: EDCALLBACK SURFPROPS
+[2023.04.11-22.47.23:885][178]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor12)
+[2023.04.11-22.47.26:343][466]Cmd: DELETE
+[2023.04.11-22.47.26:343][466]Cmd: ACTOR DELETE
+[2023.04.11-22.47.26:349][466]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.11-22.47.26:355][466]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2023.04.11-22.47.26:359][466]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2023.04.11-22.47.31:938][113]Cmd: EDIT COPY
+[2023.04.11-22.47.32:439][172]Cmd: EDIT PASTE
+[2023.04.11-22.48.27:454][449]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2023.04.11-22.48.50:286][ 11]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube3)
+[2023.04.11-22.48.51:396][129]Cmd: DELETE
+[2023.04.11-22.48.51:396][129]Cmd: ACTOR DELETE
+[2023.04.11-22.48.51:415][129]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.11-22.48.51:423][129]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.04.11-22.48.51:424][129]LogEditorActor: Deleted 1 Actors (0.027 secs)
+[2023.04.11-22.49.02:467][ 25]Cmd: EDIT COPY
+[2023.04.11-22.49.02:729][ 56]Cmd: EDIT PASTE
+[2023.04.11-22.49.54:704][ 73]Cmd: TRANSACTION UNDO
+[2023.04.11-22.49.54:704][ 73]LogEditorTransaction: Undo Move Actors
+[2023.04.11-22.50.19:022][827]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube8)
+[2023.04.11-22.50.21:117][ 72]Cmd: DELETE
+[2023.04.11-22.50.21:118][ 72]Cmd: ACTOR DELETE
+[2023.04.11-22.50.21:132][ 72]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.11-22.50.21:142][ 72]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.04.11-22.50.21:143][ 72]LogEditorActor: Deleted 1 Actors (0.025 secs)
+[2023.04.11-22.50.33:157][468]LogTemp: Repeating last play command: Selected Viewport
+[2023.04.11-22.50.33:161][468]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.11-22.50.33:161][468]PIE: New page: PIE session: Kitten_Scene1 (12 Apr 2023, 00:50:33)
+[2023.04.11-22.50.33:198][468]LogPlayLevel: Creating play world package: /Game/CuteKitten/Maps/UEDPIE_0_Kitten_Scene1
+[2023.04.11-22.50.33:212][468]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014349s)
+[2023.04.11-22.50.33:213][468]LogAIModule: Creating AISystem for world Kitten_Scene1
+[2023.04.11-22.50.33:213][468]LogPlayLevel: PIE: World Init took: (0.001002s)
+[2023.04.11-22.50.33:213][468]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1 to /Game/CuteKitten/Maps/UEDPIE_0_Kitten_Scene1.Kitten_Scene1 (0.015535s)
+[2023.04.11-22.50.33:223][468]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.04.11-22.50.33:223][468]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2023.04.11-22.50.33:223][468]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.11-22.50.33:223][468]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.11-22.50.33:223][468]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.11-22.50.33:223][468]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.11-22.50.33:223][468]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.11-22.50.33:223][468]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.04.11-22.50.33:223][468]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.11-22.50.33:223][468]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.11-22.50.33:224][468]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.11-22.50.33:224][468]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.11-22.50.33:224][468]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.11-22.50.33:224][468]LogAudioMixer: Display: Initializing audio mixer.
+[2023.04.11-22.50.33:231][468]LogAudioMixer: Display: 0: FrontLeft
+[2023.04.11-22.50.33:231][468]LogAudioMixer: Display: 1: FrontRight
+[2023.04.11-22.50.33:239][468]LogAudioMixer: Display: Using Audio Device Headphones (High Definition Audio Device)
+[2023.04.11-22.50.33:239][468]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.11-22.50.33:239][468]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.11-22.50.33:239][468]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.11-22.50.33:240][468]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.04.11-22.50.33:240][468]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.04.11-22.50.33:240][468]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2023.04.11-22.50.33:241][468]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.04.11-22.50.33:241][468]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.04.11-22.50.33:241][468]LogInit: FAudioDevice initialized.
+[2023.04.11-22.50.33:242][468]LogAudio: Display: Audio Device (ID: 9) registered with world 'Kitten_Scene1'.
+[2023.04.11-22.50.33:249][468]LogLoad: Game class is 'MyGame_C'
+[2023.04.11-22.50.33:252][468]LogWorld: Bringing World /Game/CuteKitten/Maps/UEDPIE_0_Kitten_Scene1.Kitten_Scene1 up for play (max tick rate 0) at 2023.04.11-23.50.33
+[2023.04.11-22.50.33:252][468]LogWorld: Bringing up level for play took: 0.002452
+[2023.04.11-22.50.33:252][468]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2023.04.11-22.50.33:254][468]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.11-22.50.33:254][468]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2023.04.11-22.50.33:254][468]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2023.04.11-22.50.33:254][468]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2023.04.11-22.50.33:254][468]PIE: Server logged in
+[2023.04.11-22.50.33:255][468]PIE: Play in editor total start time 0.094 seconds.
+[2023.04.11-22.50.48:460][283]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.11-22.50.48:460][283]LogWorld: BeginTearingDown for /Game/CuteKitten/Maps/UEDPIE_0_Kitten_Scene1
+[2023.04.11-22.50.48:460][283]LogWorld: UWorld::CleanupWorld for Kitten_Scene1, bSessionEnded=true, bCleanupResources=true
+[2023.04.11-22.50.48:460][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.11-22.50.48:469][283]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.11-22.50.48:481][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.11-22.50.48:492][283]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.11-22.50.48:492][283]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.11-22.50.48:493][283]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.11-22.50.48:496][283]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.11-22.50.48:498][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.04.11-22.50.48:523][284]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2023.04.11-22.50.55:698][138]Cmd: EDIT COPY
+[2023.04.11-22.50.55:883][159]Cmd: EDIT PASTE
+[2023.04.11-22.51.47:638][119]LogEditorViewport: Clicking on Actor (LMB): CharacterBP_C (CharacterBP)
+[2023.04.11-22.52.08:959][564]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2023.04.11-22.52.10:847][783]Cmd: TRANSACTION UNDO
+[2023.04.11-22.52.10:847][783]LogEditorTransaction: Undo Move Actors
+[2023.04.11-22.52.15:095][250]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube)
+[2023.04.11-22.52.15:905][343]Cmd: DELETE
+[2023.04.11-22.52.15:905][343]Cmd: ACTOR DELETE
+[2023.04.11-22.52.15:923][343]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.04.11-22.52.15:935][343]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2023.04.11-22.52.15:936][343]LogEditorActor: Deleted 1 Actors (0.031 secs)
+[2023.04.11-22.52.29:516][917]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.04.11-22.52.29:562][917]LogSavePackage: Moving '../../../../../Git/Year2---DMU/PGE/Assignment/Saved/Kitten_Scene13EF5314A4D25D1C28E995A879FDF2616.tmp' to '../../../../../Git/Year2---DMU/PGE/Assignment/Content/CuteKitten/Maps/Kitten_Scene1.umap'
+[2023.04.11-22.52.29:584][917]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CuteKitten/Maps/Kitten_Scene1_BuiltData" FILE="../../../../../Git/Year2---DMU/PGE/Assignment/Content/CuteKitten/Maps/Kitten_Scene1_BuiltData.uasset" SILENT=true
+[2023.04.11-22.52.29:630][917]LogSavePackage: Moving '../../../../../Git/Year2---DMU/PGE/Assignment/Saved/Kitten_Scene1_BuiltDataBBC20FFB45B4DEDFEF62FD9BD904CD5E.tmp' to '../../../../../Git/Year2---DMU/PGE/Assignment/Content/CuteKitten/Maps/Kitten_Scene1_BuiltData.uasset'
+[2023.04.11-22.52.29:644][917]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.11-22.52.29:644][917]LogContentValidation: Display: Validating World /Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1
+[2023.04.11-22.52.29:644][917]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/CuteKitten/Maps/Kitten_Scene1_BuiltData.Kitten_Scene1_BuiltData
+[2023.04.11-22.52.59:706][435]Cmd: TRANSACTION UNDO
+[2023.04.11-22.52.59:706][435]LogEditorTransaction: Undo Move Actors
+[2023.04.11-22.53.00:456][480]Cmd: EDIT COPY
+[2023.04.11-22.53.00:684][507]Cmd: EDIT PASTE
+[2023.04.11-22.53.33:717][250]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2023.04.11-22.53.33:762][250]LogSavePackage: Moving '../../../../../Git/Year2---DMU/PGE/Assignment/Saved/Kitten_Scene133F4B046433087B6A7F320A101AD68AB.tmp' to '../../../../../Git/Year2---DMU/PGE/Assignment/Content/CuteKitten/Maps/Kitten_Scene1.umap'
+[2023.04.11-22.53.33:772][250]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CuteKitten/Maps/Kitten_Scene1_BuiltData" FILE="../../../../../Git/Year2---DMU/PGE/Assignment/Content/CuteKitten/Maps/Kitten_Scene1_BuiltData.uasset" SILENT=true
+[2023.04.11-22.53.33:815][250]LogSavePackage: Moving '../../../../../Git/Year2---DMU/PGE/Assignment/Saved/Kitten_Scene1_BuiltData17B2F2F64A0C92C7F3ED8F9AAC44AEA9.tmp' to '../../../../../Git/Year2---DMU/PGE/Assignment/Content/CuteKitten/Maps/Kitten_Scene1_BuiltData.uasset'
+[2023.04.11-22.53.33:825][250]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.11-22.53.33:825][250]LogContentValidation: Display: Validating World /Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1
+[2023.04.11-22.53.33:825][250]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/CuteKitten/Maps/Kitten_Scene1_BuiltData.Kitten_Scene1_BuiltData
+[2023.04.11-22.53.45:815][609]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.11-22.53.51:218][234]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.11-22.54.17:977][366]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4369' invalid (3068 verts, 0 indices).
+[2023.04.11-22.54.17:977][366]LogPhysics: Warning: Attempt to build physics data for /Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4369.BodySetup_0 when we are unable to.
+[2023.04.11-22.54.17:977][366]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4370' invalid (3068 verts, 0 indices).
+[2023.04.11-22.54.17:977][366]LogPhysics: Warning: Attempt to build physics data for /Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4370.BodySetup_0 when we are unable to.
+[2023.04.11-22.54.17:977][366]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4371' invalid (3068 verts, 0 indices).
+[2023.04.11-22.54.17:977][366]LogPhysics: Warning: Attempt to build physics data for /Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4371.BodySetup_0 when we are unable to.
+[2023.04.11-22.54.17:978][366]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4372' invalid (3068 verts, 0 indices).
+[2023.04.11-22.54.17:978][366]LogPhysics: Warning: Attempt to build physics data for /Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4372.BodySetup_0 when we are unable to.
+[2023.04.11-22.54.17:978][366]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4373' invalid (3068 verts, 0 indices).
+[2023.04.11-22.54.17:978][366]LogPhysics: Warning: Attempt to build physics data for /Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4373.BodySetup_0 when we are unable to.
+[2023.04.11-22.54.17:978][366]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4374' invalid (3068 verts, 0 indices).
+[2023.04.11-22.54.17:978][366]LogPhysics: Warning: Attempt to build physics data for /Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4374.BodySetup_0 when we are unable to.
+[2023.04.11-22.54.17:978][366]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4375' invalid (3068 verts, 0 indices).
+[2023.04.11-22.54.17:978][366]LogPhysics: Warning: Attempt to build physics data for /Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4375.BodySetup_0 when we are unable to.
+[2023.04.11-22.54.17:978][366]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4376' invalid (3068 verts, 0 indices).
+[2023.04.11-22.54.17:978][366]LogPhysics: Warning: Attempt to build physics data for /Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4376.BodySetup_0 when we are unable to.
+[2023.04.11-22.54.17:979][366]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4377' invalid (3068 verts, 0 indices).
+[2023.04.11-22.54.17:979][366]LogPhysics: Warning: Attempt to build physics data for /Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4377.BodySetup_0 when we are unable to.
+[2023.04.11-22.54.17:979][366]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4378' invalid (3068 verts, 0 indices).
+[2023.04.11-22.54.17:979][366]LogPhysics: Warning: Attempt to build physics data for /Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4378.BodySetup_0 when we are unable to.
+[2023.04.11-22.54.37:091][625]Cmd: SELECT NONE
+[2023.04.11-22.55.33:979][179]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2023.04.11-22.56.08:912][223]Cmd: EDIT COPY
+[2023.04.11-22.56.09:131][245]Cmd: EDIT PASTE
+[2023.04.11-22.56.29:400][494]Cmd: DELETE
+[2023.04.11-22.56.29:400][494]Cmd: ACTOR DELETE
+[2023.04.11-22.56.29:419][494]LogEditorActor: Deleted Actor: Brush
+[2023.04.11-22.56.29:427][494]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.04.11-22.56.29:450][494]LogEditorActor: Deleted 1 Actors (0.049 secs)
+[2023.04.11-22.56.29:851][537]Cmd: DELETE
+[2023.04.11-22.56.29:851][537]Cmd: ACTOR DELETE
+[2023.04.11-22.56.29:864][537]LogEditorActor: Deleted Actor: Brush
+[2023.04.11-22.56.29:870][537]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.04.11-22.56.29:886][537]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2023.04.11-22.56.37:393][432]Cmd: EDIT COPY
+[2023.04.11-22.56.37:593][456]Cmd: EDIT PASTE
+[2023.04.11-22.56.41:293][900]Cmd: DELETE
+[2023.04.11-22.56.41:293][900]Cmd: ACTOR DELETE
+[2023.04.11-22.56.41:299][900]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2023.04.11-22.56.41:300][900]LogEditorActor: Deleted 0 Actors (0.007 secs)
+[2023.04.11-22.57.20:883][533]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4722' invalid (3008 verts, 0 indices).
+[2023.04.11-22.57.20:883][533]LogPhysics: Warning: Attempt to build physics data for /Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4722.BodySetup_0 when we are unable to.
+[2023.04.11-22.57.20:884][533]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4723' invalid (3008 verts, 0 indices).
+[2023.04.11-22.57.20:884][533]LogPhysics: Warning: Attempt to build physics data for /Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4723.BodySetup_0 when we are unable to.
+[2023.04.11-22.57.20:884][533]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4725' invalid (3008 verts, 0 indices).
+[2023.04.11-22.57.20:884][533]LogPhysics: Warning: Attempt to build physics data for /Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4725.BodySetup_0 when we are unable to.
+[2023.04.11-22.57.20:885][533]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4726' invalid (3008 verts, 0 indices).
+[2023.04.11-22.57.20:885][533]LogPhysics: Warning: Attempt to build physics data for /Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4726.BodySetup_0 when we are unable to.
+[2023.04.11-22.57.20:885][533]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4727' invalid (3008 verts, 0 indices).
+[2023.04.11-22.57.20:885][533]LogPhysics: Warning: Attempt to build physics data for /Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4727.BodySetup_0 when we are unable to.
+[2023.04.11-22.57.20:885][533]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4728' invalid (3008 verts, 0 indices).
+[2023.04.11-22.57.20:885][533]LogPhysics: Warning: Attempt to build physics data for /Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4728.BodySetup_0 when we are unable to.
+[2023.04.11-22.57.32:001][840]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.11-22.57.33:222][983]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.11-22.57.33:903][ 63]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.11-22.57.34:525][136]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.04.11-22.57.44:217][279]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4722' invalid (3008 verts, 0 indices).
+[2023.04.11-22.57.44:217][279]LogPhysics: Warning: Attempt to build physics data for /Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4722.BodySetup_0 when we are unable to.
+[2023.04.11-22.57.44:218][279]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4723' invalid (3008 verts, 0 indices).
+[2023.04.11-22.57.44:218][279]LogPhysics: Warning: Attempt to build physics data for /Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4723.BodySetup_0 when we are unable to.
+[2023.04.11-22.57.44:219][279]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4725' invalid (3008 verts, 0 indices).
+[2023.04.11-22.57.44:219][279]LogPhysics: Warning: Attempt to build physics data for /Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4725.BodySetup_0 when we are unable to.
+[2023.04.11-22.57.44:219][279]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4726' invalid (3008 verts, 0 indices).
+[2023.04.11-22.57.44:219][279]LogPhysics: Warning: Attempt to build physics data for /Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4726.BodySetup_0 when we are unable to.
+[2023.04.11-22.57.44:219][279]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4727' invalid (3008 verts, 0 indices).
+[2023.04.11-22.57.44:219][279]LogPhysics: Warning: Attempt to build physics data for /Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4727.BodySetup_0 when we are unable to.
+[2023.04.11-22.57.44:219][279]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4728' invalid (3008 verts, 0 indices).
+[2023.04.11-22.57.44:219][279]LogPhysics: Warning: Attempt to build physics data for /Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4728.BodySetup_0 when we are unable to.
+[2023.04.11-22.57.51:988][183]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4722' invalid (3008 verts, 0 indices).
+[2023.04.11-22.57.51:988][183]LogPhysics: Warning: Attempt to build physics data for /Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4722.BodySetup_0 when we are unable to.
+[2023.04.11-22.57.51:988][183]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4723' invalid (3008 verts, 0 indices).
+[2023.04.11-22.57.51:988][183]LogPhysics: Warning: Attempt to build physics data for /Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4723.BodySetup_0 when we are unable to.
+[2023.04.11-22.57.51:989][183]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4725' invalid (3008 verts, 0 indices).
+[2023.04.11-22.57.51:989][183]LogPhysics: Warning: Attempt to build physics data for /Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4725.BodySetup_0 when we are unable to.
+[2023.04.11-22.57.51:989][183]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4726' invalid (3008 verts, 0 indices).
+[2023.04.11-22.57.51:989][183]LogPhysics: Warning: Attempt to build physics data for /Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4726.BodySetup_0 when we are unable to.
+[2023.04.11-22.57.51:990][183]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4727' invalid (3008 verts, 0 indices).
+[2023.04.11-22.57.51:990][183]LogPhysics: Warning: Attempt to build physics data for /Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4727.BodySetup_0 when we are unable to.
+[2023.04.11-22.57.51:990][183]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4728' invalid (3008 verts, 0 indices).
+[2023.04.11-22.57.51:991][183]LogPhysics: Warning: Attempt to build physics data for /Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4728.BodySetup_0 when we are unable to.
+[2023.04.11-22.57.52:934][290]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4722' invalid (3008 verts, 0 indices).
+[2023.04.11-22.57.52:934][290]LogPhysics: Warning: Attempt to build physics data for /Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4722.BodySetup_0 when we are unable to.
+[2023.04.11-22.57.52:934][290]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4723' invalid (3008 verts, 0 indices).
+[2023.04.11-22.57.52:934][290]LogPhysics: Warning: Attempt to build physics data for /Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4723.BodySetup_0 when we are unable to.
+[2023.04.11-22.57.52:935][290]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4725' invalid (3008 verts, 0 indices).
+[2023.04.11-22.57.52:935][290]LogPhysics: Warning: Attempt to build physics data for /Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4725.BodySetup_0 when we are unable to.
+[2023.04.11-22.57.52:935][290]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4726' invalid (3008 verts, 0 indices).
+[2023.04.11-22.57.52:935][290]LogPhysics: Warning: Attempt to build physics data for /Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4726.BodySetup_0 when we are unable to.
+[2023.04.11-22.57.52:935][290]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4727' invalid (3008 verts, 0 indices).
+[2023.04.11-22.57.52:935][290]LogPhysics: Warning: Attempt to build physics data for /Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4727.BodySetup_0 when we are unable to.
+[2023.04.11-22.57.52:935][290]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4728' invalid (3008 verts, 0 indices).
+[2023.04.11-22.57.52:935][290]LogPhysics: Warning: Attempt to build physics data for /Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4728.BodySetup_0 when we are unable to.
+[2023.04.11-22.58.02:969][472]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4722' invalid (3008 verts, 0 indices).
+[2023.04.11-22.58.02:969][472]LogPhysics: Warning: Attempt to build physics data for /Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4722.BodySetup_0 when we are unable to.
+[2023.04.11-22.58.02:969][472]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4723' invalid (3008 verts, 0 indices).
+[2023.04.11-22.58.02:969][472]LogPhysics: Warning: Attempt to build physics data for /Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4723.BodySetup_0 when we are unable to.
+[2023.04.11-22.58.45:234][506]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4722' invalid (3008 verts, 0 indices).
+[2023.04.11-22.58.45:234][506]LogPhysics: Warning: Attempt to build physics data for /Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4722.BodySetup_0 when we are unable to.
+[2023.04.11-22.58.45:234][506]LogPhysics: Warning: UBodySetup::GetCookInfo: Triangle data from '/Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4723' invalid (3008 verts, 0 indices).
+[2023.04.11-22.58.45:234][506]LogPhysics: Warning: Attempt to build physics data for /Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1:PersistentLevel.ModelComponent_4723.BodySetup_0 when we are unable to.
+[2023.04.11-22.58.46:383][642]Cmd: EDIT COPY
+[2023.04.11-22.58.46:791][691]Cmd: EDIT PASTE
+[2023.04.11-22.59.11:923][631]Cmd: EDIT COPY
+[2023.04.11-22.59.13:049][766]Cmd: EDIT PASTE
+[2023.04.11-22.59.32:882][ 61]Cmd: DELETE
+[2023.04.11-22.59.32:882][ 61]Cmd: ACTOR DELETE
+[2023.04.11-22.59.32:895][ 61]LogEditorActor: Deleted Actor: Brush
+[2023.04.11-22.59.32:902][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.04.11-22.59.32:922][ 61]LogEditorActor: Deleted 1 Actors (0.040 secs)
+[2023.04.11-22.59.55:828][694]Cmd: SELECT NONE
+[2023.04.11-23.00.46:645][539]Cmd: EDCALLBACK SURFPROPS
+[2023.04.11-23.01.22:652][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.04.11-23.01.22:707][630]LogSavePackage: Moving '../../../../../Git/Year2---DMU/PGE/Assignment/Saved/Kitten_Scene10F6228364FA6274D19308C9F783E519A.tmp' to '../../../../../Git/Year2---DMU/PGE/Assignment/Content/CuteKitten/Maps/Kitten_Scene1.umap'
+[2023.04.11-23.01.22:725][630]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CuteKitten/Maps/Kitten_Scene1_BuiltData" FILE="../../../../../Git/Year2---DMU/PGE/Assignment/Content/CuteKitten/Maps/Kitten_Scene1_BuiltData.uasset" SILENT=true
+[2023.04.11-23.01.22:768][630]LogSavePackage: Moving '../../../../../Git/Year2---DMU/PGE/Assignment/Saved/Kitten_Scene1_BuiltData7CC86E3D4A992F0C2AF6FDB733B1B175.tmp' to '../../../../../Git/Year2---DMU/PGE/Assignment/Content/CuteKitten/Maps/Kitten_Scene1_BuiltData.uasset'
+[2023.04.11-23.01.22:783][630]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.11-23.01.22:783][630]LogContentValidation: Display: Validating World /Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1
+[2023.04.11-23.01.22:783][630]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/CuteKitten/Maps/Kitten_Scene1_BuiltData.Kitten_Scene1_BuiltData
+[2023.04.11-23.02.30:122][677]Cmd: SELECT NONE
+[2023.04.11-23.02.31:227][798]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.04.11-23.02.31:282][798]LogSavePackage: Moving '../../../../../Git/Year2---DMU/PGE/Assignment/Saved/Kitten_Scene11D3C990140E594E2586A4B844F3B979D.tmp' to '../../../../../Git/Year2---DMU/PGE/Assignment/Content/CuteKitten/Maps/Kitten_Scene1.umap'
+[2023.04.11-23.02.31:288][798]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CuteKitten/Maps/Kitten_Scene1_BuiltData" FILE="../../../../../Git/Year2---DMU/PGE/Assignment/Content/CuteKitten/Maps/Kitten_Scene1_BuiltData.uasset" SILENT=true
+[2023.04.11-23.02.31:336][798]LogSavePackage: Moving '../../../../../Git/Year2---DMU/PGE/Assignment/Saved/Kitten_Scene1_BuiltData751F4D384990B00AD38B768BB81397D4.tmp' to '../../../../../Git/Year2---DMU/PGE/Assignment/Content/CuteKitten/Maps/Kitten_Scene1_BuiltData.uasset'
+[2023.04.11-23.02.31:350][798]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.11-23.02.31:350][798]LogContentValidation: Display: Validating World /Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1
+[2023.04.11-23.02.31:350][798]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/CuteKitten/Maps/Kitten_Scene1_BuiltData.Kitten_Scene1_BuiltData
+[2023.04.11-23.04.15:117][487]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2023.04.11-23.04.15:172][487]LogSavePackage: Moving '../../../../../Git/Year2---DMU/PGE/Assignment/Saved/Kitten_Scene10850E4934E0892C0ECC39EAEFFFB82DC.tmp' to '../../../../../Git/Year2---DMU/PGE/Assignment/Content/CuteKitten/Maps/Kitten_Scene1.umap'
+[2023.04.11-23.04.15:177][487]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CuteKitten/Maps/Kitten_Scene1_BuiltData" FILE="../../../../../Git/Year2---DMU/PGE/Assignment/Content/CuteKitten/Maps/Kitten_Scene1_BuiltData.uasset" SILENT=true
+[2023.04.11-23.04.15:222][487]LogSavePackage: Moving '../../../../../Git/Year2---DMU/PGE/Assignment/Saved/Kitten_Scene1_BuiltData72773DE644D54AB34579A780B4918655.tmp' to '../../../../../Git/Year2---DMU/PGE/Assignment/Content/CuteKitten/Maps/Kitten_Scene1_BuiltData.uasset'
+[2023.04.11-23.04.15:236][487]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.11-23.04.15:236][487]LogContentValidation: Display: Validating World /Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1
+[2023.04.11-23.04.15:236][487]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/CuteKitten/Maps/Kitten_Scene1_BuiltData.Kitten_Scene1_BuiltData
+[2023.04.11-23.04.15:777][547]LogUObjectHash: Compacting FUObjectHashTables data took   0.28ms
+[2023.04.11-23.04.15:834][547]LogSavePackage: Moving '../../../../../Git/Year2---DMU/PGE/Assignment/Saved/Kitten_Scene18F9B0E7348710CFABB2139B0E574BA03.tmp' to '../../../../../Git/Year2---DMU/PGE/Assignment/Content/CuteKitten/Maps/Kitten_Scene1.umap'
+[2023.04.11-23.04.15:840][547]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CuteKitten/Maps/Kitten_Scene1_BuiltData" FILE="../../../../../Git/Year2---DMU/PGE/Assignment/Content/CuteKitten/Maps/Kitten_Scene1_BuiltData.uasset" SILENT=true
+[2023.04.11-23.04.15:889][547]LogSavePackage: Moving '../../../../../Git/Year2---DMU/PGE/Assignment/Saved/Kitten_Scene1_BuiltDataBE84A02349A3F9525F77D39C0EA89F51.tmp' to '../../../../../Git/Year2---DMU/PGE/Assignment/Content/CuteKitten/Maps/Kitten_Scene1_BuiltData.uasset'
+[2023.04.11-23.04.15:903][547]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.11-23.04.15:903][547]LogContentValidation: Display: Validating World /Game/CuteKitten/Maps/Kitten_Scene1.Kitten_Scene1
+[2023.04.11-23.04.15:904][547]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/CuteKitten/Maps/Kitten_Scene1_BuiltData.Kitten_Scene1_BuiltData
+[2023.04.11-23.04.20:692][116]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.04.11-23.04.22:942][116]LogSlate: Window 'Save Content' being destroyed
+[2023.04.11-23.04.22:968][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CuteKitten/Textures/kitten_Albedo_Z_Mat" FILE="../../../../../Git/Year2---DMU/PGE/Assignment/Content/CuteKitten/Textures/kitten_Albedo_Z_Mat.uasset" SILENT=true
+[2023.04.11-23.04.22:969][116]LogSavePackage: Moving '../../../../../Git/Year2---DMU/PGE/Assignment/Saved/kitten_Albedo_Z_Mat83B7DD594A7F23B5A60AF581529942BF.tmp' to '../../../../../Git/Year2---DMU/PGE/Assignment/Content/CuteKitten/Textures/kitten_Albedo_Z_Mat.uasset'
+[2023.04.11-23.04.22:970][116]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/CuteKitten/Materials/PinkMat" FILE="../../../../../Git/Year2---DMU/PGE/Assignment/Content/CuteKitten/Materials/PinkMat.uasset" SILENT=true
+[2023.04.11-23.04.22:974][116]LogSavePackage: Moving '../../../../../Git/Year2---DMU/PGE/Assignment/Saved/PinkMatED7C667A47AE1AFF37DF658AFCE7F742.tmp' to '../../../../../Git/Year2---DMU/PGE/Assignment/Content/CuteKitten/Materials/PinkMat.uasset'
+[2023.04.11-23.04.23:009][116]LogSlate: Window 'Assignment - Unreal Editor' being destroyed
+[2023.04.11-23.04.23:168][116]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.11-23.04.23:168][116]LogContentValidation: Display: Validating Material /Game/CuteKitten/Materials/PinkMat.PinkMat
+[2023.04.11-23.04.23:168][116]LogContentValidation: Display: Validating Material /Game/CuteKitten/Textures/kitten_Albedo_Z_Mat.kitten_Albedo_Z_Mat
+[2023.04.11-23.04.23:170][117]Cmd: QUIT_EDITOR
+[2023.04.11-23.04.23:171][117]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.04.11-23.04.23:179][117]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.04.11-23.04.23:504][117]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.04.11-23.04.23:504][117]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.04.11-23.04.23:504][117]LogAudio: Display: Audio Device unregistered from world 'Kitten_Scene1'.
+[2023.04.11-23.04.23:505][117]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.11-23.04.23:509][117]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.04.11-23.04.23:557][117]LogAudio: Display: Audio Device Manager Shutdown
+[2023.04.11-23.04.23:560][117]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2023.04.11-23.04.23:576][117]LogExit: Preparing to exit.
+[2023.04.11-23.04.24:053][117]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2023.04.11-23.04.24:374][117]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2023.04.11-23.04.24:374][117]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.04.11-23.04.24:374][117]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.04.11-23.04.24:374][117]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.04.11-23.04.24:374][117]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.04.11-23.04.24:374][117]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2023.04.11-23.04.24:375][117]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.04.11-23.04.24:531][117]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2023.04.11-23.04.24:567][117]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2023.04.11-23.04.24:568][117]LogExit: Editor shut down
+[2023.04.11-23.04.24:573][117]LogExit: Transaction tracking system shut down
+[2023.04.11-23.04.25:695][117]LogExit: Object subsystem successfully closed.
+[2023.04.11-23.04.25:718][117]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.04.11-23.04.25:718][117]LogShaderCompilers: Display: Total job queries 162, among them cache hits 45 (27.78%)
+[2023.04.11-23.04.25:718][117]LogShaderCompilers: Display: Tracking 117 distinct input hashes that result in 80 distinct outputs (68.38%)
+[2023.04.11-23.04.25:718][117]LogShaderCompilers: Display: RAM used: 0.45 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.06%
+[2023.04.11-23.04.25:718][117]LogShaderCompilers: Display: ================================================
+[2023.04.11-23.04.25:761][117]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.04.11-23.04.25:933][117]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (876)
+[2023.04.11-23.04.25:934][117]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (874)
+[2023.04.11-23.04.25:934][117]LogModuleManager: Shutting down and abandoning module Voice (872)
+[2023.04.11-23.04.25:934][117]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (870)
+[2023.04.11-23.04.25:935][117]LogModuleManager: Shutting down and abandoning module SceneOutliner (868)
+[2023.04.11-23.04.25:935][117]LogModuleManager: Shutting down and abandoning module AddContentDialog (866)
+[2023.04.11-23.04.26:068][117]LogModuleManager: Shutting down and abandoning module WidgetCarousel (865)
+[2023.04.11-23.04.26:068][117]LogModuleManager: Shutting down and abandoning module EditorWidgets (862)
+[2023.04.11-23.04.26:068][117]LogModuleManager: Shutting down and abandoning module StatsViewer (860)
+[2023.04.11-23.04.26:070][117]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (858)
+[2023.04.11-23.04.26:073][117]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (856)
+[2023.04.11-23.04.26:073][117]LogModuleManager: Shutting down and abandoning module AutomationWorker (854)
+[2023.04.11-23.04.26:074][117]LogModuleManager: Shutting down and abandoning module SteamVREditor (852)
+[2023.04.11-23.04.26:074][117]LogModuleManager: Shutting down and abandoning module OculusMR (850)
+[2023.04.11-23.04.26:074][117]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (848)
+[2023.04.11-23.04.26:079][117]LogModuleManager: Shutting down and abandoning module TakeRecorder (847)
+[2023.04.11-23.04.26:082][117]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (844)
+[2023.04.11-23.04.26:083][117]LogModuleManager: Shutting down and abandoning module TakesCore (842)
+[2023.04.11-23.04.26:083][117]LogModuleManager: Shutting down and abandoning module OpenXRInput (840)
+[2023.04.11-23.04.26:085][117]LogModuleManager: Shutting down and abandoning module GooglePADEditor (838)
+[2023.04.11-23.04.26:085][117]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (836)
+[2023.04.11-23.04.26:085][117]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (834)
+[2023.04.11-23.04.26:088][117]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (832)
+[2023.04.11-23.04.26:091][117]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (830)
+[2023.04.11-23.04.26:091][117]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (828)
+[2023.04.11-23.04.26:092][117]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (826)
+[2023.04.11-23.04.26:093][117]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (824)
+[2023.04.11-23.04.26:093][117]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (822)
+[2023.04.11-23.04.26:093][117]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (820)
+[2023.04.11-23.04.26:093][117]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (818)
+[2023.04.11-23.04.26:093][117]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (816)
+[2023.04.11-23.04.26:093][117]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (814)
+[2023.04.11-23.04.26:093][117]LogModuleManager: Shutting down and abandoning module WebMMedia (812)
+[2023.04.11-23.04.26:094][117]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (810)
+[2023.04.11-23.04.26:095][117]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (808)
+[2023.04.11-23.04.26:097][117]LogModuleManager: Shutting down and abandoning module SequenceRecorder (807)
+[2023.04.11-23.04.26:098][117]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (804)
+[2023.04.11-23.04.26:098][117]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (802)
+[2023.04.11-23.04.26:098][117]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (800)
+[2023.04.11-23.04.26:098][117]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (798)
+[2023.04.11-23.04.26:098][117]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (796)
+[2023.04.11-23.04.26:098][117]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (794)
+[2023.04.11-23.04.26:098][117]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (792)
+[2023.04.11-23.04.26:098][117]LogModuleManager: Shutting down and abandoning module PlanarCut (790)
+[2023.04.11-23.04.26:099][117]LogModuleManager: Shutting down and abandoning module CharacterAI (788)
+[2023.04.11-23.04.26:099][117]LogModuleManager: Shutting down and abandoning module TextureAlignMode (786)
+[2023.04.11-23.04.26:099][117]LogModuleManager: Shutting down and abandoning module BspMode (784)
+[2023.04.11-23.04.26:099][117]LogModuleManager: Shutting down and abandoning module GeometryMode (782)
+[2023.04.11-23.04.26:099][117]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (780)
+[2023.04.11-23.04.26:100][117]LogModuleManager: Shutting down and abandoning module SmartSnapping (778)
+[2023.04.11-23.04.26:100][117]LogModuleManager: Shutting down and abandoning module SessionServices (776)
+[2023.04.11-23.04.26:100][117]LogModuleManager: Shutting down and abandoning module MeshPaint (774)
+[2023.04.11-23.04.26:102][117]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (772)
+[2023.04.11-23.04.26:102][117]LogModuleManager: Shutting down and abandoning module FoliageEdit (770)
+[2023.04.11-23.04.26:103][117]LogModuleManager: Shutting down and abandoning module LandscapeEditor (768)
+[2023.04.11-23.04.26:107][117]LogModuleManager: Shutting down and abandoning module MeshPaintMode (766)
+[2023.04.11-23.04.26:107][117]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (764)
+[2023.04.11-23.04.26:107][117]LogModuleManager: Shutting down and abandoning module ActorPickerMode (762)
+[2023.04.11-23.04.26:107][117]LogModuleManager: Shutting down and abandoning module PlacementMode (760)
+[2023.04.11-23.04.26:107][117]LogModuleManager: Shutting down and abandoning module ViewportSnapping (758)
+[2023.04.11-23.04.26:107][117]LogModuleManager: Shutting down and abandoning module ViewportInteraction (756)
+[2023.04.11-23.04.26:107][117]LogModuleManager: Shutting down and abandoning module ClothPainter (754)
+[2023.04.11-23.04.26:110][117]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (753)
+[2023.04.11-23.04.26:111][117]LogModuleManager: Shutting down and abandoning module LogVisualizer (750)
+[2023.04.11-23.04.26:113][117]LogModuleManager: Shutting down and abandoning module IntroTutorials (748)
+[2023.04.11-23.04.26:114][117]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (747)
+[2023.04.11-23.04.26:115][117]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (744)
+[2023.04.11-23.04.26:116][117]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (742)
+[2023.04.11-23.04.26:117][117]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (740)
+[2023.04.11-23.04.26:117][117]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (739)
+[2023.04.11-23.04.26:964][117]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (736)
+[2023.04.11-23.04.26:964][117]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (734)
+[2023.04.11-23.04.26:964][117]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (732)
+[2023.04.11-23.04.26:964][117]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (730)
+[2023.04.11-23.04.26:964][117]LogModuleManager: Shutting down and abandoning module TraceInsights (728)
+[2023.04.11-23.04.26:969][117]MemoryProfiler: Shutdown
+[2023.04.11-23.04.26:969][117]NetworkingProfiler: Shutdown
+[2023.04.11-23.04.26:969][117]LoadingProfiler: Shutdown
+[2023.04.11-23.04.26:970][117]TimingProfiler: Shutdown
+[2023.04.11-23.04.26:973][117]LogModuleManager: Shutting down and abandoning module TraceServices (727)
+[2023.04.11-23.04.26:974][117]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (724)
+[2023.04.11-23.04.26:974][117]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (722)
+[2023.04.11-23.04.26:975][117]LogModuleManager: Shutting down and abandoning module InputBindingEditor (720)
+[2023.04.11-23.04.26:975][117]LogModuleManager: Shutting down and abandoning module MergeActors (718)
+[2023.04.11-23.04.26:977][117]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (716)
+[2023.04.11-23.04.26:978][117]LogModuleManager: Shutting down and abandoning module LocalizationService (715)
+[2023.04.11-23.04.26:978][117]LogModuleManager: Shutting down and abandoning module HardwareTargeting (712)
+[2023.04.11-23.04.26:978][117]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (710)
+[2023.04.11-23.04.26:979][117]LogModuleManager: Shutting down and abandoning module UndoHistory (708)
+[2023.04.11-23.04.26:980][117]LogModuleManager: Shutting down and abandoning module XmlParser (706)
+[2023.04.11-23.04.26:980][117]LogModuleManager: Shutting down and abandoning module Blutility (704)
+[2023.04.11-23.04.26:981][117]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (702)
+[2023.04.11-23.04.26:981][117]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (701)
+[2023.04.11-23.04.26:982][117]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (698)
+[2023.04.11-23.04.26:983][117]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (697)
+[2023.04.11-23.04.26:983][117]LogModuleManager: Shutting down and abandoning module SettingsEditor (694)
+[2023.04.11-23.04.26:984][117]LogModuleManager: Shutting down and abandoning module ProjectLauncher (692)
+[2023.04.11-23.04.26:985][117]LogModuleManager: Shutting down and abandoning module SessionFrontend (690)
+[2023.04.11-23.04.26:985][117]LogModuleManager: Shutting down and abandoning module ProfilerClient (688)
+[2023.04.11-23.04.26:986][117]LogModuleManager: Shutting down and abandoning module DeviceManager (686)
+[2023.04.11-23.04.26:986][117]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (685)
+[2023.04.11-23.04.27:019][117]LogModuleManager: Shutting down and abandoning module AutomationController (682)
+[2023.04.11-23.04.27:020][117]LogModuleManager: Shutting down and abandoning module AutomationWindow (680)
+[2023.04.11-23.04.27:020][117]LogModuleManager: Shutting down and abandoning module Layers (678)
+[2023.04.11-23.04.27:022][117]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (676)
+[2023.04.11-23.04.27:022][117]LogModuleManager: Shutting down and abandoning module DetailCustomizations (674)
+[2023.04.11-23.04.27:022][117]LogModuleManager: Shutting down and abandoning module PackagesDialog (672)
+[2023.04.11-23.04.27:023][117]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (670)
+[2023.04.11-23.04.27:025][117]LogModuleManager: Shutting down and abandoning module Persona (668)
+[2023.04.11-23.04.27:027][117]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (667)
+[2023.04.11-23.04.27:027][117]LogModuleManager: Shutting down and abandoning module AnimGraph (665)
+[2023.04.11-23.04.27:028][117]LogModuleManager: Shutting down and abandoning module Kismet (662)
+[2023.04.11-23.04.27:030][117]LogModuleManager: Shutting down and abandoning module KismetWidgets (661)
+[2023.04.11-23.04.27:030][117]LogModuleManager: Shutting down and abandoning module GraphEditor (658)
+[2023.04.11-23.04.27:033][117]LogModuleManager: Shutting down and abandoning module StructViewer (656)
+[2023.04.11-23.04.27:034][117]LogModuleManager: Shutting down and abandoning module ClassViewer (654)
+[2023.04.11-23.04.27:036][117]LogModuleManager: Shutting down and abandoning module Toolbox (652)
+[2023.04.11-23.04.27:037][117]LogModuleManager: Shutting down and abandoning module ModuleUI (650)
+[2023.04.11-23.04.27:037][117]LogModuleManager: Shutting down and abandoning module OutputLog (648)
+[2023.04.11-23.04.27:041][117]LogModuleManager: Shutting down and abandoning module GammaUI (646)
+[2023.04.11-23.04.27:041][117]LogModuleManager: Shutting down and abandoning module Documentation (644)
+[2023.04.11-23.04.27:042][117]LogModuleManager: Shutting down and abandoning module LiveCoding (642)
+[2023.04.11-23.04.27:043][117]LogModuleManager: Shutting down and abandoning module LevelSequence (640)
+[2023.04.11-23.04.27:044][117]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (638)
+[2023.04.11-23.04.27:044][117]LogModuleManager: Shutting down and abandoning module MovieScene (636)
+[2023.04.11-23.04.27:047][117]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (634)
+[2023.04.11-23.04.27:047][117]LogModuleManager: Shutting down and abandoning module LauncherPlatform (632)
+[2023.04.11-23.04.27:047][117]LogModuleManager: Shutting down and abandoning module AnalyticsET (630)
+[2023.04.11-23.04.27:047][117]LogModuleManager: Shutting down and abandoning module PortalServices (628)
+[2023.04.11-23.04.27:047][117]LogModuleManager: Shutting down and abandoning module PortalRpc (626)
+[2023.04.11-23.04.27:048][117]LogModuleManager: Shutting down and abandoning module MessagingRpc (624)
+[2023.04.11-23.04.27:048][117]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (622)
+[2023.04.11-23.04.27:048][117]LogModuleManager: Shutting down and abandoning module AudioMixerCore (621)
+[2023.04.11-23.04.27:048][117]LogModuleManager: Shutting down and abandoning module AIModule (618)
+[2023.04.11-23.04.27:049][117]LogModuleManager: Shutting down and abandoning module GameplayDebugger (617)
+[2023.04.11-23.04.27:049][117]LogModuleManager: Shutting down and abandoning module AITestSuite (615)
+[2023.04.11-23.04.27:049][117]LogModuleManager: Shutting down and abandoning module NavigationSystem (613)
+[2023.04.11-23.04.27:050][117]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (610)
+[2023.04.11-23.04.27:050][117]LogModuleManager: Shutting down and abandoning module ProfilerService (608)
+[2023.04.11-23.04.27:184][117]LogModuleManager: Shutting down and abandoning module TaskGraph (606)
+[2023.04.11-23.04.27:184][117]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (604)
+[2023.04.11-23.04.27:184][117]LogModuleManager: Shutting down and abandoning module OculusEditor (602)
+[2023.04.11-23.04.27:190][117]LogModuleManager: Shutting down and abandoning module OculusInput (600)
+[2023.04.11-23.04.27:190][117]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (598)
+[2023.04.11-23.04.27:190][117]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (596)
+[2023.04.11-23.04.27:191][117]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (594)
+[2023.04.11-23.04.27:191][117]LogModuleManager: Shutting down and abandoning module CollectionManager (593)
+[2023.04.11-23.04.27:192][117]LogModuleManager: Shutting down and abandoning module ScreenshotTools (590)
+[2023.04.11-23.04.27:192][117]LogModuleManager: Shutting down and abandoning module TakeSequencer (588)
+[2023.04.11-23.04.27:192][117]LogModuleManager: Shutting down and abandoning module TakeMovieScene (586)
+[2023.04.11-23.04.27:192][117]LogModuleManager: Shutting down and abandoning module SynthesisEditor (584)
+[2023.04.11-23.04.27:192][117]LogModuleManager: Shutting down and abandoning module Synthesis (582)
+[2023.04.11-23.04.27:194][117]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (580)
+[2023.04.11-23.04.27:194][117]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (578)
+[2023.04.11-23.04.27:194][117]LogModuleManager: Shutting down and abandoning module OpenXREditor (576)
+[2023.04.11-23.04.27:195][117]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (574)
+[2023.04.11-23.04.27:195][117]LogModuleManager: Shutting down and abandoning module GooglePAD (572)
+[2023.04.11-23.04.27:195][117]LogModuleManager: Shutting down and abandoning module EditableMesh (570)
+[2023.04.11-23.04.27:196][117]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (568)
+[2023.04.11-23.04.27:196][117]LogModuleManager: Shutting down and abandoning module CableComponent (566)
+[2023.04.11-23.04.27:196][117]LogModuleManager: Shutting down and abandoning module AudioCapture (564)
+[2023.04.11-23.04.27:196][117]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (563)
+[2023.04.11-23.04.27:196][117]LogModuleManager: Shutting down and abandoning module AssetTags (560)
+[2023.04.11-23.04.27:196][117]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (558)
+[2023.04.11-23.04.27:196][117]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (556)
+[2023.04.11-23.04.27:196][117]LogModuleManager: Shutting down and abandoning module AppleImageUtils (554)
+[2023.04.11-23.04.27:196][117]LogModuleManager: Shutting down and abandoning module AndroidPermission (552)
+[2023.04.11-23.04.27:196][117]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (550)
+[2023.04.11-23.04.27:197][117]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (548)
+[2023.04.11-23.04.27:197][117]LogModuleManager: Shutting down and abandoning module TemplateSequence (546)
+[2023.04.11-23.04.27:197][117]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (544)
+[2023.04.11-23.04.27:197][117]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (542)
+[2023.04.11-23.04.27:197][117]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (540)
+[2023.04.11-23.04.27:197][117]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (538)
+[2023.04.11-23.04.27:197][117]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (536)
+[2023.04.11-23.04.27:198][117]LogModuleManager: Shutting down and abandoning module MediaCompositing (534)
+[2023.04.11-23.04.27:198][117]LogModuleManager: Shutting down and abandoning module ImgMedia (532)
+[2023.04.11-23.04.27:198][117]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (530)
+[2023.04.11-23.04.27:198][117]LogOpenImageDenoise: OIDN shutting down
+[2023.04.11-23.04.27:198][117]LogModuleManager: Shutting down and abandoning module MotoSynthEditor (528)
+[2023.04.11-23.04.27:198][117]LogModuleManager: Shutting down and abandoning module MotoSynth (526)
+[2023.04.11-23.04.27:198][117]LogModuleManager: Shutting down and abandoning module MeshConversion (524)
+[2023.04.11-23.04.27:198][117]LogModuleManager: Shutting down and abandoning module DynamicMesh (522)
+[2023.04.11-23.04.27:199][117]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (520)
+[2023.04.11-23.04.27:200][117]LogModuleManager: Shutting down and abandoning module GeometricObjects (518)
+[2023.04.11-23.04.27:200][117]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (516)
+[2023.04.11-23.04.27:200][117]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (515)
+[2023.04.11-23.04.27:200][117]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (512)
+[2023.04.11-23.04.27:200][117]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (510)
+[2023.04.11-23.04.27:200][117]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (508)
+[2023.04.11-23.04.27:201][117]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (506)
+[2023.04.11-23.04.27:201][117]LogModuleManager: Shutting down and abandoning module ChaosNiagara (504)
+[2023.04.11-23.04.27:201][117]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (502)
+[2023.04.11-23.04.27:201][117]LogModuleManager: Shutting down and abandoning module FractureEditor (500)
+[2023.04.11-23.04.27:202][117]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (499)
+[2023.04.11-23.04.27:202][117]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (496)
+[2023.04.11-23.04.27:203][117]LogModuleManager: Shutting down and abandoning module BackChannel (494)
+[2023.04.11-23.04.27:203][117]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (492)
+[2023.04.11-23.04.27:203][117]LogModuleManager: Shutting down and abandoning module AutomationUtils (490)
+[2023.04.11-23.04.27:203][117]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (488)
+[2023.04.11-23.04.27:205][117]LogModuleManager: Shutting down and abandoning module AlembicImporter (486)
+[2023.04.11-23.04.27:205][117]LogModuleManager: Shutting down and abandoning module AlembicLibrary (485)
+[2023.04.11-23.04.27:206][117]LogModuleManager: Shutting down and abandoning module GeometryCache (484)
+[2023.04.11-23.04.27:206][117]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (483)
+[2023.04.11-23.04.27:206][117]LogModuleManager: Shutting down and abandoning module PluginBrowser (478)
+[2023.04.11-23.04.27:208][117]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (476)
+[2023.04.11-23.04.27:208][117]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (474)
+[2023.04.11-23.04.27:209][117]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (472)
+[2023.04.11-23.04.27:210][117]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (470)
+[2023.04.11-23.04.27:210][117]LogModuleManager: Shutting down and abandoning module CryptoKeys (468)
+[2023.04.11-23.04.27:210][117]LogModuleManager: Shutting down and abandoning module CurveEditorTools (466)
+[2023.04.11-23.04.27:211][117]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (464)
+[2023.04.11-23.04.27:212][117]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (462)
+[2023.04.11-23.04.27:212][117]LogModuleManager: Shutting down and abandoning module UObjectPlugin (460)
+[2023.04.11-23.04.27:212][117]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (458)
+[2023.04.11-23.04.27:214][117]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (456)
+[2023.04.11-23.04.27:214][117]LogModuleManager: Shutting down and abandoning module PluginUtils (454)
+[2023.04.11-23.04.27:214][117]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (452)
+[2023.04.11-23.04.27:216][117]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (450)
+[2023.04.11-23.04.27:217][117]LogModuleManager: Shutting down and abandoning module GitSourceControl (448)
+[2023.04.11-23.04.27:218][117]LogModuleManager: Shutting down and abandoning module SourceControl (447)
+[2023.04.11-23.04.27:219][117]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (444)
+[2023.04.11-23.04.27:219][117]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (442)
+[2023.04.11-23.04.27:221][117]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (440)
+[2023.04.11-23.04.27:221][117]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (438)
+[2023.04.11-23.04.27:222][117]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (436)
+[2023.04.11-23.04.27:222][117]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (434)
+[2023.04.11-23.04.27:222][117]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (432)
+[2023.04.11-23.04.27:222][117]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (430)
+[2023.04.11-23.04.27:222][117]LogModuleManager: Shutting down and abandoning module Paper2DEditor (428)
+[2023.04.11-23.04.27:224][117]LogModuleManager: Shutting down and abandoning module LiveLinkSequencer (426)
+[2023.04.11-23.04.27:225][117]LogModuleManager: Shutting down and abandoning module LiveLinkMovieScene (424)
+[2023.04.11-23.04.27:225][117]LogModuleManager: Shutting down and abandoning module LiveLinkGraphNode (422)
+[2023.04.11-23.04.27:225][117]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (420)
+[2023.04.11-23.04.27:226][117]LogModuleManager: Shutting down and abandoning module LiveLinkComponents (418)
+[2023.04.11-23.04.27:226][117]LogModuleManager: Shutting down and abandoning module LiveLink (416)
+[2023.04.11-23.04.27:472][117]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (414)
+[2023.04.11-23.04.27:472][117]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (412)
+[2023.04.11-23.04.27:473][117]LogModuleManager: Shutting down and abandoning module SoundFields (410)
+[2023.04.11-23.04.27:473][117]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (408)
+[2023.04.11-23.04.27:473][117]LogModuleManager: Shutting down and abandoning module SignificanceManager (406)
+[2023.04.11-23.04.27:473][117]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (404)
+[2023.04.11-23.04.27:474][117]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (402)
+[2023.04.11-23.04.27:475][117]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (398)
+[2023.04.11-23.04.27:475][117]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (396)
+[2023.04.11-23.04.27:475][117]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (394)
+[2023.04.11-23.04.27:475][117]LogModuleManager: Shutting down and abandoning module UdpMessaging (392)
+[2023.04.11-23.04.27:576][117]LogModuleManager: Shutting down and abandoning module TcpMessaging (390)
+[2023.04.11-23.04.27:677][117]LogModuleManager: Shutting down and abandoning module ActorSequence (388)
+[2023.04.11-23.04.27:677][117]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (386)
+[2023.04.11-23.04.27:677][117]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (384)
+[2023.04.11-23.04.27:677][117]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (382)
+[2023.04.11-23.04.27:677][117]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (380)
+[2023.04.11-23.04.27:678][117]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (378)
+[2023.04.11-23.04.27:679][117]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2023.04.11-23.04.27:679][117]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (376)
+[2023.04.11-23.04.27:679][117]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (374)
+[2023.04.11-23.04.27:679][117]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (372)
+[2023.04.11-23.04.27:681][117]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (370)
+[2023.04.11-23.04.27:681][117]LogModuleManager: Shutting down and abandoning module MagicLeapController (368)
+[2023.04.11-23.04.27:682][117]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (366)
+[2023.04.11-23.04.27:682][117]LogModuleManager: Shutting down and abandoning module MagicLeapAR (364)
+[2023.04.11-23.04.27:682][117]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (362)
+[2023.04.11-23.04.27:682][117]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (360)
+[2023.04.11-23.04.27:682][117]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (358)
+[2023.04.11-23.04.27:682][117]LogModuleManager: Shutting down and abandoning module Niagara (356)
+[2023.04.11-23.04.27:687][117]LogModuleManager: Shutting down and abandoning module SignalProcessing (355)
+[2023.04.11-23.04.27:688][117]LogModuleManager: Shutting down and abandoning module NiagaraEditor (353)
+[2023.04.11-23.04.27:691][117]LogModuleManager: Shutting down and abandoning module NiagaraCore (350)
+[2023.04.11-23.04.27:691][117]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (348)
+[2023.04.11-23.04.27:691][117]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (346)
+[2023.04.11-23.04.27:692][117]LogModuleManager: Shutting down and abandoning module FacialAnimation (344)
+[2023.04.11-23.04.27:692][117]LogModuleManager: Shutting down and abandoning module DataValidation (342)
+[2023.04.11-23.04.27:692][117]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (340)
+[2023.04.11-23.04.27:692][117]LogModuleManager: Shutting down and abandoning module LevelEditor (339)
+[2023.04.11-23.04.27:700][117]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (338)
+[2023.04.11-23.04.27:702][117]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (336)
+[2023.04.11-23.04.27:702][117]LogModuleManager: Shutting down and abandoning module MainFrame (334)
+[2023.04.11-23.04.27:703][117]LogModuleManager: Shutting down and abandoning module HotReload (333)
+[2023.04.11-23.04.27:705][117]LogModuleManager: Shutting down and abandoning module ToolMenus (329)
+[2023.04.11-23.04.27:705][117]LogModuleManager: Shutting down and abandoning module ContentBrowser (327)
+[2023.04.11-23.04.27:705][117]LogModuleManager: Shutting down and abandoning module ContentBrowserData (326)
+[2023.04.11-23.04.27:705][117]LogModuleManager: Shutting down and abandoning module TreeMap (323)
+[2023.04.11-23.04.27:706][117]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (320)
+[2023.04.11-23.04.27:706][117]LogModuleManager: Shutting down and abandoning module AnimationSharing (318)
+[2023.04.11-23.04.27:706][117]LogModuleManager: Shutting down and abandoning module GameplayCameras (316)
+[2023.04.11-23.04.27:706][117]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (314)
+[2023.04.11-23.04.27:706][117]LogModuleManager: Shutting down and abandoning module Paper2D (312)
+[2023.04.11-23.04.27:707][117]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (310)
+[2023.04.11-23.04.27:709][117]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (308)
+[2023.04.11-23.04.27:726][117]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (306)
+[2023.04.11-23.04.27:726][117]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (304)
+[2023.04.11-23.04.27:726][117]LogModuleManager: Shutting down and abandoning module PacketHandler (302)
+[2023.04.11-23.04.27:726][117]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (300)
+[2023.04.11-23.04.27:726][117]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (298)
+[2023.04.11-23.04.27:730][117]LogModuleManager: Shutting down and abandoning module MediaAssets (296)
+[2023.04.11-23.04.27:730][117]LogModuleManager: Shutting down and abandoning module Overlay (294)
+[2023.04.11-23.04.27:730][117]LogModuleManager: Shutting down and abandoning module OverlayEditor (293)
+[2023.04.11-23.04.27:730][117]LogModuleManager: Shutting down and abandoning module VREditor (290)
+[2023.04.11-23.04.27:731][117]LogModuleManager: Shutting down and abandoning module StringTableEditor (288)
+[2023.04.11-23.04.27:732][117]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (286)
+[2023.04.11-23.04.27:732][117]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (284)
+[2023.04.11-23.04.27:735][117]LogModuleManager: Shutting down and abandoning module FunctionalTesting (282)
+[2023.04.11-23.04.27:735][117]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (280)
+[2023.04.11-23.04.27:738][117]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (279)
+[2023.04.11-23.04.27:741][117]LogModuleManager: Shutting down and abandoning module UMG (276)
+[2023.04.11-23.04.27:743][117]LogModuleManager: Shutting down and abandoning module UMGEditor (275)
+[2023.04.11-23.04.27:746][117]LogModuleManager: Shutting down and abandoning module MessageLog (273)
+[2023.04.11-23.04.27:746][117]LogModuleManager: Shutting down and abandoning module SlateReflector (268)
+[2023.04.11-23.04.27:752][117]LogModuleManager: Shutting down and abandoning module Slate (266)
+[2023.04.11-23.04.27:752][117]LogModuleManager: Shutting down and abandoning module SlateCore (264)
+[2023.04.11-23.04.27:753][117]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (262)
+[2023.04.11-23.04.27:753][117]LogModuleManager: Shutting down and abandoning module UnrealEd (260)
+[2023.04.11-23.04.27:753][117]LogModuleManager: Shutting down and abandoning module MRMesh (258)
+[2023.04.11-23.04.27:753][117]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (256)
+[2023.04.11-23.04.27:753][117]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (254)
+[2023.04.11-23.04.27:754][117]LogModuleManager: Shutting down and abandoning module XAudio2 (252)
+[2023.04.11-23.04.27:755][117]LogModuleManager: Shutting down and abandoning module Networking (250)
+[2023.04.11-23.04.27:755][117]LogModuleManager: Shutting down and abandoning module Core (248)
+[2023.04.11-23.04.27:755][117]LogModuleManager: Shutting down and abandoning module MaterialEditor (246)
+[2023.04.11-23.04.27:756][117]LogModuleManager: Shutting down and abandoning module MovieSceneTools (244)
+[2023.04.11-23.04.27:760][117]LogModuleManager: Shutting down and abandoning module CurveEditor (243)
+[2023.04.11-23.04.27:762][117]LogModuleManager: Shutting down and abandoning module Sequencer (241)
+[2023.04.11-23.04.27:765][117]LogModuleManager: Shutting down and abandoning module EditorStyle (240)
+[2023.04.11-23.04.27:773][117]LogModuleManager: Shutting down and abandoning module KismetCompiler (236)
+[2023.04.11-23.04.27:773][117]LogModuleManager: Shutting down and abandoning module MeshBuilder (234)
+[2023.04.11-23.04.27:774][117]LogModuleManager: Shutting down and abandoning module MeshUtilities (232)
+[2023.04.11-23.04.27:775][117]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (231)
+[2023.04.11-23.04.27:776][117]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (230)
+[2023.04.11-23.04.27:776][117]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (229)
+[2023.04.11-23.04.27:777][117]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (227)
+[2023.04.11-23.04.27:777][117]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (225)
+[2023.04.11-23.04.27:781][117]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (223)
+[2023.04.11-23.04.27:782][117]LogModuleManager: Shutting down and abandoning module MaterialBaking (219)
+[2023.04.11-23.04.27:783][117]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (214)
+[2023.04.11-23.04.27:783][117]LogModuleManager: Shutting down and abandoning module DerivedDataCache (212)
+[2023.04.11-23.04.27:784][117]LogModuleManager: Shutting down and abandoning module TargetPlatform (210)
+[2023.04.11-23.04.27:785][117]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (209)
+[2023.04.11-23.04.27:787][117]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (207)
+[2023.04.11-23.04.27:788][117]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (205)
+[2023.04.11-23.04.27:788][117]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (203)
+[2023.04.11-23.04.27:789][117]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (201)
+[2023.04.11-23.04.27:791][117]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (199)
+[2023.04.11-23.04.27:791][117]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (197)
+[2023.04.11-23.04.27:791][117]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (195)
+[2023.04.11-23.04.27:791][117]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (193)
+[2023.04.11-23.04.27:791][117]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (191)
+[2023.04.11-23.04.27:792][117]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (189)
+[2023.04.11-23.04.27:793][117]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (187)
+[2023.04.11-23.04.27:793][117]LogModuleManager: Shutting down and abandoning module ImageWrapper (186)
+[2023.04.11-23.04.27:793][117]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (183)
+[2023.04.11-23.04.27:794][117]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (181)
+[2023.04.11-23.04.27:794][117]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (179)
+[2023.04.11-23.04.27:795][117]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (177)
+[2023.04.11-23.04.27:795][117]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (175)
+[2023.04.11-23.04.27:795][117]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (173)
+[2023.04.11-23.04.27:795][117]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (171)
+[2023.04.11-23.04.27:796][117]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (169)
+[2023.04.11-23.04.27:804][117]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (167)
+[2023.04.11-23.04.27:804][117]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (165)
+[2023.04.11-23.04.27:804][117]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (163)
+[2023.04.11-23.04.27:804][117]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (161)
+[2023.04.11-23.04.27:804][117]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (159)
+[2023.04.11-23.04.27:820][117]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (157)
+[2023.04.11-23.04.27:820][117]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (155)
+[2023.04.11-23.04.27:820][117]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (153)
+[2023.04.11-23.04.27:821][117]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (151)
+[2023.04.11-23.04.27:821][117]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (149)
+[2023.04.11-23.04.27:821][117]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (147)
+[2023.04.11-23.04.27:821][117]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (145)
+[2023.04.11-23.04.27:821][117]LogModuleManager: Shutting down and abandoning module Messaging (143)
+[2023.04.11-23.04.27:822][117]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (141)
+[2023.04.11-23.04.27:827][117]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (139)
+[2023.04.11-23.04.27:851][117]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (137)
+[2023.04.11-23.04.27:851][117]LogModuleManager: Shutting down and abandoning module D3D11RHI (134)
+[2023.04.11-23.04.27:851][117]LogModuleManager: Shutting down and abandoning module InputCore (132)
+[2023.04.11-23.04.27:851][117]LogModuleManager: Shutting down and abandoning module Settings (130)
+[2023.04.11-23.04.27:851][117]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (128)
+[2023.04.11-23.04.27:853][117]LogModuleManager: Shutting down and abandoning module PhysXCooking (126)
+[2023.04.11-23.04.27:854][117]LogModuleManager: Shutting down and abandoning module Chaos (124)
+[2023.04.11-23.04.27:854][117]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (122)
+[2023.04.11-23.04.27:854][117]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (121)
+[2023.04.11-23.04.27:855][117]LogModuleManager: Shutting down and abandoning module AVEncoder (120)
+[2023.04.11-23.04.27:855][117]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (116)
+[2023.04.11-23.04.27:855][117]LogModuleManager: Shutting down and abandoning module SteamVRInput (114)
+[2023.04.11-23.04.27:855][117]LogModuleManager: Shutting down and abandoning module SteamVR (112)
+[2023.04.11-23.04.27:856][117]LogHMD: Freeing OpenVRDLLHandle.
+[2023.04.11-23.04.27:856][117]LogModuleManager: Shutting down and abandoning module OculusHMD (110)
+[2023.04.11-23.04.27:856][117]LogModuleManager: Shutting down and abandoning module OpenXREyeTracker (108)
+[2023.04.11-23.04.27:856][117]LogModuleManager: Shutting down and abandoning module OpenXRHandTracking (106)
+[2023.04.11-23.04.27:857][117]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.04.11-23.04.27:857][117]LogModuleManager: Shutting down and abandoning module OpenXRAR (104)
+[2023.04.11-23.04.27:858][117]LogModuleManager: Shutting down and abandoning module AugmentedReality (103)
+[2023.04.11-23.04.27:858][117]LogModuleManager: Shutting down and abandoning module OpenXRHMD (100)
+[2023.04.11-23.04.27:863][117]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (98)
+[2023.04.11-23.04.27:863][117]LogModuleManager: Shutting down and abandoning module ChunkDownloader (96)
+[2023.04.11-23.04.27:863][117]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (94)
+[2023.04.11-23.04.27:863][117]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (90)
+[2023.04.11-23.04.27:863][117]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (88)
+[2023.04.11-23.04.27:865][117]LogModuleManager: Shutting down and abandoning module XMPP (83)
+[2023.04.11-23.04.27:866][117]LogModuleManager: Shutting down and abandoning module WebSockets (82)
+[2023.04.11-23.04.27:880][117]LogModuleManager: Shutting down and abandoning module HTTP (79)
+[2023.04.11-23.04.27:880][117]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2023.04.11-23.04.27:880][117]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B60071FD1-4EDE-EA6C-B1FC-1CB403D1EBDB%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.27.2-18319896%2B%2B%2BUE4%2BRelease-4.27&UserID=8157f0f2493289d1bde37495ea3d3eb0%7C788ba36d80d14b93927b7f5726b8e09c%7Ce0c565d6-1a1a-4cea-9524-ac8cddd4e83e&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2023.04.11-23.04.27:880][117]LogHttp: Display: cleaning up 1 outstanding Http requests.
+[2023.04.11-23.04.27:920][117]LogModuleManager: Shutting down and abandoning module SSL (78)
+[2023.04.11-23.04.27:939][117]LogModuleManager: Shutting down and abandoning module MLSDK (74)
+[2023.04.11-23.04.27:939][117]LogModuleManager: Shutting down and abandoning module MagicLeap (72)
+[2023.04.11-23.04.27:940][117]LogModuleManager: Shutting down and abandoning module WmfMedia (70)
+[2023.04.11-23.04.27:947][117]LogModuleManager: Shutting down and abandoning module Media (69)
+[2023.04.11-23.04.27:949][117]LogModuleManager: Shutting down and abandoning module MediaInfo (68)
+[2023.04.11-23.04.27:949][117]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (64)
+[2023.04.11-23.04.27:956][117]LogModuleManager: Shutting down and abandoning module ChaosCloth (62)
+[2023.04.11-23.04.27:959][117]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (60)
+[2023.04.11-23.04.27:960][117]LogModuleManager: Shutting down and abandoning module NiagaraShader (58)
+[2023.04.11-23.04.27:961][117]LogModuleManager: Shutting down and abandoning module PixWinPlugin (56)
+[2023.04.11-23.04.27:962][117]LogModuleManager: Shutting down and abandoning module VariantManagerContent (54)
+[2023.04.11-23.04.27:962][117]LogModuleManager: Shutting down and abandoning module DatasmithContent (52)
+[2023.04.11-23.04.27:962][117]LogModuleManager: Shutting down and abandoning module AISupportModule (50)
+[2023.04.11-23.04.27:962][117]LogModuleManager: Shutting down and abandoning module DesktopPlatform (48)
+[2023.04.11-23.04.27:964][117]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (46)
+[2023.04.11-23.04.27:964][117]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2023.04.11-23.04.27:965][117]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2023.04.11-23.04.27:965][117]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2023.04.11-23.04.27:966][117]LogModuleManager: Shutting down and abandoning module OodleDataCompressionFormat (38)
+[2023.04.11-23.04.27:967][117]LogModuleManager: Shutting down and abandoning module XGEController (36)
+[2023.04.11-23.04.27:968][117]LogXGEController: Cleaning working directory: C:/Users/mcgam/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2023.04.11-23.04.27:969][117]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2023.04.11-23.04.27:969][117]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2023.04.11-23.04.27:976][117]LogModuleManager: Shutting down and abandoning module PropertyEditor (31)
+[2023.04.11-23.04.27:982][117]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2023.04.11-23.04.27:982][117]LogModuleManager: Shutting down and abandoning module RenderCore (26)
+[2023.04.11-23.04.27:983][117]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2023.04.11-23.04.27:983][117]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2023.04.11-23.04.27:990][117]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2023.04.11-23.04.27:990][117]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2023.04.11-23.04.27:992][117]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2023.04.11-23.04.27:992][117]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2023.04.11-23.04.27:992][117]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2023.04.11-23.04.27:992][117]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2023.04.11-23.04.27:992][117]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2023.04.11-23.04.27:993][117]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2023.04.11-23.04.27:993][117]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2023.04.11-23.04.27:995][117]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2023.04.11-23.04.27:997][117]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2023.04.11-23.04.28:036][117]LogD3D11RHI: Shutdown
+[2023.04.11-23.04.28:036][117]LogD3D11RHI: CleanupD3DDevice
+[2023.04.11-23.04.28:080][117]LogExit: Exiting.
+[2023.04.11-23.04.28:101][117]Log file closed, 04/12/23 00:04:28
